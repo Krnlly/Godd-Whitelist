@@ -1,0 +1,4 @@
+userids = {
+[826506326] = true, --poop
+}
+return userids
