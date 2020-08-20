@@ -1,8 +1,0 @@
-keylist = {
-[CI68O6MR3ejBd8dc93N14O51x3O9KZ] = true, --4Lavish#2468
-[58424FQ1x37B7uTuv1q0w773XAZ3J6] = true, --chxrlezs#0210
-[7Q1D0389uy1j2FmP039812P822lO1W] = true, --Jayy#5555
-[Qi64trE694v1rV8515I9wE79vDbA98] = true, --Genas#6043
-[794CCi8310iQ9E57663P0UwWN94R0N] = true, --Knqx#9820
-}
-return keylist
